@@ -7,7 +7,7 @@ Proyecto Socio-Comunitario — Carrera de Sistemas Informáticos, **INCOS Cochab
 
 ---
 
-## ¿Qué hace el sistema?
+## ¿Qué hace el sistema web?
 
 El bastón electrónico (ESP32 con sensores ultrasónicos y módulo GPS) envía su ubicación y las
 alertas de emergencia al sistema web. Desde la plataforma, el personal del centro puede:
